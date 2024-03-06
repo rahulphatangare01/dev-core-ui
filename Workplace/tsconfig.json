@@ -1,11 +1,12 @@
 {
   "compilerOptions": {
     /* Language and Environment */
+    
     "target": "ESNext",
     "jsx": "react-jsx",
 
     /* Modules */
-    "module": "ESNext",
+    "module": "ES2022",
     "moduleResolution": "Node",
 
     /* JavaScript Support */
